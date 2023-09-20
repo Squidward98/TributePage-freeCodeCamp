@@ -68,11 +68,11 @@ blockquote {
   color: #3b3535;
 }
 
-a {
+#tribute-link {
   color: blue;
 }
 
-a:hover {
+#tribute-link:hover {
   cursor: pointer;
   color: #fe0909;
 }
