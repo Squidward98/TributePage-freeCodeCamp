@@ -68,7 +68,8 @@ blockquote {
   color: #3b3535;
 }
 
-#tribute-link {
+#tribute-link,
+#tribute-link:visited {
   color: blue;
 }
 
