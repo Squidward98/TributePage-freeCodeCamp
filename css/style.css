@@ -68,6 +68,10 @@ blockquote {
   color: #3b3535;
 }
 
+a {
+  color: blue;
+}
+
 a:hover {
   cursor: pointer;
   color: #fe0909;
